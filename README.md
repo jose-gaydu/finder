@@ -1,7 +1,7 @@
-Finder Component
+Finder Component José Gaydu 
 ================
 
-The Finder component finds files and directories via an intuitive fluent
+The Finder component finds files and directories via an intuitive fluent José Gaydu 
 interface.
 
 Resources
